@@ -1,8 +1,6 @@
 
-                             Hi, I'm Kunal
 
-
-- 👋 Hi, I’m @kunal-geeks
+- 👋 Hi, I’m kunal sharma.
 - 👀 I’m interested in software engineering,machine learning,artificial intelligence
 - 🌱 I’m currently learning java and web devlopment.
 - 💞️ I’m looking to collaborate on projects related to software development.
