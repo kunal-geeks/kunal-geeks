@@ -1,3 +1,7 @@
+
+                             Hi, I'm Kunal
+
+
 - 👋 Hi, I’m @kunal-geeks
 - 👀 I’m interested in software engineering,machine learning,artificial intelligence
 - 🌱 I’m currently learning java and web devlopment.
