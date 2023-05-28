@@ -1,9 +1,7 @@
 
 
 - 👋 Hi, I’m kunal sharma.
-- 👀 I’m interested in software engineering,machine learning,artificial intelligence
-- 🌱 I’m currently learning java and web devlopment.
-- 💞️ I’m looking to collaborate on projects related to software development.
+- 💞️ I’m learning open source software development.
 - 📫 you can reach me -------> kunal.ucet@gmail.com
 
 <!---
